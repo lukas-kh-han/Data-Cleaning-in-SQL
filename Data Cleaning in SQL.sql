@@ -1,8 +1,8 @@
-/*  
- 
+
+/*   
  	Cleaning Data in SQL Queries
- 
- */  
+	Skills used : CREATE, UPDATE, SELECT, SUBQUERIES, WINDOW FUNCTIONS, JOINS, OREDR BY, GROUP BY
+*/  
 
 
 SELECT *
